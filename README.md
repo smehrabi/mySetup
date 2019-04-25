@@ -10,4 +10,4 @@ I will also try and keep a list of folks who have inspired some of my decisions.
 Use ESLint
 Use Prettier
 
-#ESLint setup
+# ESLint setup
