@@ -27,8 +27,11 @@ One of my favorite customization options with VS Code is the ability to change t
 
 The way I customize that is to add the following to settings.json in my Workbench -> Appearance section where there is an option "Edit in settings.json"
 
+```json
 "workbench.colorCustomizations": {
         "titleBar.activeBackground": "#5d43d0"
     }
+```
 
+Please not that #5d43d0 is a color option. You can replace that with your own color choice.
 
