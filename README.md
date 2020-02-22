@@ -43,5 +43,5 @@ Please note that #5d43d0 is a color option. You can replace that with your own c
 
 When I have multiple VS code instances running sometimes I get confused trying to figure out which project each instance belongs to. One way I try and solve this problem is to use the following setting in my settings.json
 
- "window.title": "Adv. React : ${rootName}${separator}${activeEditorShort}"
+ ```"window.title": "<Project Name> : ${rootName}${separator}${activeEditorShort}"```
 
