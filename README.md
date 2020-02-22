@@ -25,6 +25,8 @@ Replace <Title Here> with your title.
   
 ### VS Code Customizations
 
+#### Title bar color
+
 One of my favorite customization options with VS Code is the ability to change the title bar color. This ability helps me give different colors to each of my editors so that I can quickly identiy which window I need to focus on.
 
 The way I customize that is to add the following to settings.json in my Workbench -> Appearance section where there is an option "Edit in settings.json"
@@ -37,5 +39,9 @@ The way I customize that is to add the following to settings.json in my Workbenc
 
 Please note that #5d43d0 is a color option. You can replace that with your own color choice.
 
-##Title Bar
+## Title Bar text
+
+When I have multiple VS code instances running sometimes I get confused trying to figure out which project each instance belongs to. One way I try and solve this problem is to use the following setting in my settings.json
+
+ "window.title": "Adv. React : ${rootName}${separator}${activeEditorShort}"
 
