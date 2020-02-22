@@ -23,7 +23,7 @@ echo -ne "\033]0;"<Title here>"\007" .
 
 Replace <Title Here> with your title.  
   
-### VS Code Customizations
+## VS Code Customizations
 
 #### Title bar color
 
