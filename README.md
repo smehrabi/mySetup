@@ -35,5 +35,7 @@ The way I customize that is to add the following to settings.json in my Workbenc
     }
 ```
 
-Please not that #5d43d0 is a color option. You can replace that with your own color choice.
+Please note that #5d43d0 is a color option. You can replace that with your own color choice.
+
+##Title Bar
 
