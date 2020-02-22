@@ -39,7 +39,7 @@ The way I customize that is to add the following to settings.json in my Workbenc
 
 Please note that #5d43d0 is a color option. You can replace that with your own color choice.
 
-## Title Bar text
+#### Title Bar text
 
 When I have multiple VS code instances running sometimes I get confused trying to figure out which project each instance belongs to. One way I try and solve this problem is to use the following setting in my settings.json
 
